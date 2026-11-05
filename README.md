@@ -120,7 +120,7 @@ The frontmatter uses only standard fields (`name`, `description`, `license`).
 - No scripts, no executables, no dependencies.
 - No network access and no environment variables required
   (`agent.json` declares `"network": []` and `"env": []`).
-- Scanned on AgenticMart: https://agenticmart.vercel.app/verified
+- Scanned on AgenticMart: https://agenticmart.org/verified
 
 ## Limitations
 
